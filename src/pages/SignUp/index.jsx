@@ -61,16 +61,19 @@ export function SignUp(){
 
             <Input
              placeholder="Nome"
+             type="text"
              icon={FiUser}
              onChange={e => setName(e.target.value) } />
 
             <Input
              placeholder="E-mail"
+             type="text"
              icon={FiMail}
              onChange={e => setEmail(e.target.value)} />
 
             <Input
              placeholder="Senha"
+             type="password"
              icon={FiLock}
              onChange={e => setPassword(e.target.value)} />
 
