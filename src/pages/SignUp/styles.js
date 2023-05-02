@@ -7,6 +7,12 @@ export const Container = styled.div`
     display: flex;
     align-items: stretch;
 
+       
+    button{
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
   
 `;
 
