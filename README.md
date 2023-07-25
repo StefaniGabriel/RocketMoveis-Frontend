@@ -1,4 +1,5 @@
-#RocketMovies - Frontend
+# RocketMovies - Frontend
+
 O RocketMovies Frontend é a interface do usuário do projeto RocketMovies, desenvolvida para proporcionar uma experiência interativa e amigável aos usuários.
 
 ### Funcionalidades Principais:
